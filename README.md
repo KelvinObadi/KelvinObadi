@@ -26,7 +26,7 @@ I'm a passionate Front-end developer with experience in HTML, Tailwind CSS and J
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(Https:\\www.linkedin.com\KelvinObadi)
+- **[LinkedIn]**(www.linkedin.com/in/kelvin-noah-540b33356)
 - **[Twitter]**(Https:\\www.x.com\yutemanKev\)
 
 
