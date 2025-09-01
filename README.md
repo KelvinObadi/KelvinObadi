@@ -4,11 +4,10 @@
 
 ## About Me 🚀
 
-I'm a passionate Front-end developer with experience in HTML, Tailwind CSS, PHP and Javascript. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Front-end developer with experience in HTML, Tailwind CSS and Javascript. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: REACT Js, Python
+- 🌱 Currently learning: React, NextJS, Typescript
 - 🔭 Working on: Front-end portfolio website
-- 🌍 Languages: programming languages(Javascript,HTML)and human languages(Fluent in English)
 - 📫 How to reach me: kelvinobadi419@gmail.com
 - ⚡ Fun fact: I enjoy art and dressing well
 
@@ -22,7 +21,7 @@ I'm a passionate Front-end developer with experience in HTML, Tailwind CSS, PHP 
 
 ## Get in Touch 📬
 
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/kelvin-noah-540b33356)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/kev-in-tech)
 - ![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)(www.x.com\yutemanKev\)
 
 
